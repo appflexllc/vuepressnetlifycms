@@ -1,7 +1,6 @@
 backend:
-  # name: github
-  name: git-gateway 
-  # repo: appflexllc/vuepress-netlifycms
+  name: github
+  repo: appflexllc/vuepressnetlifycms
   branch: master # Branch to update (optional; defaults to master)
 media_folder: "docs/.vuepress/public/images"
 public_folder: "docs/.vuepress/dist/"

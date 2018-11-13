@@ -3,7 +3,7 @@ module.exports = {
   description: 'Netlify + VuePress',
   themeConfig: {
     docsDir: 'docs',
-    repo: 'appflexllc/vuepress-netlifycms',
+    repo: 'appflexllc/vuepressnetlifycms',
     sidebar: [
       '/',
       '/welcome',

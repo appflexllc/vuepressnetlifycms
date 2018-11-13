@@ -1,5 +1,5 @@
 ---
-home: false
+home: false 
 heroImage: /images/vuejsradar.png
 actionText: Try it Out →
 actionLink: /welcome
@@ -10,6 +10,6 @@ features:
   details: Easily upload images to your repo with an uploader 
 - title: Powerful Deployments
   details: Leverage the power of netlify and VuePress to deploy statically 
-footer: MIT Licensed | Copyright © 2018-present  
+footer: MIT Licensed | Copyright © 2018-present 
 title: FRONT PAGE
 ---
