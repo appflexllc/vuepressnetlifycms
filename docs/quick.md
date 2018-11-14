@@ -1,0 +1,4 @@
+---
+title: quick
+---
+a
